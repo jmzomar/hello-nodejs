@@ -1,2 +1,2 @@
-//This is just to show the changes
+//This is a sample feature edition
 console.log("Hell-o!\n");
